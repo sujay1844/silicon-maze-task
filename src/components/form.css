@@ -1,0 +1,34 @@
+.form {
+    background: #2e373a;
+    padding: 30px;
+    border-radius: 12px;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 25px;
+}
+
+.input {
+    border-radius: 12px;
+    padding: 5px;
+}
+
+.inputContainer {
+    display: flex;
+    justify-content: space-between;
+    width: 100%
+}
+
+.button {
+    border: 0;
+    padding: 12px;
+    background-color: cornflowerblue;
+    border-radius: 12px;
+    font: white;
+    font-size: 18px;
+    cursor: pointer;
+}
+
+.error{
+    color: red;
+}
