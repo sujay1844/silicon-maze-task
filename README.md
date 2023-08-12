@@ -1,3 +1,5 @@
+This project is hosted on https://silicon-maze-checklist-evi9.vercel.app/
+
 # Silicon Maze Task
 
 ### Task
